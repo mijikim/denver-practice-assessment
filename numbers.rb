@@ -1,7 +1,7 @@
 numbers = [20, 33, 54, 21, 87, 32, 99, 10]
 
-print numbers.length
+puts numbers.length
 
-print numbers.sort[-1]
+puts numbers.sort[-1]
 
-numbers.inject(0, :+)
+puts numbers.inject(0, :+)
