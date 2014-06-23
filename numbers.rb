@@ -4,3 +4,4 @@ print numbers.length
 
 print numbers.sort[-1]
 
+numbers.inject(0, :+)
