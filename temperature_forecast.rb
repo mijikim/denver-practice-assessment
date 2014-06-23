@@ -49,3 +49,8 @@ forecast = [
     }
   }
 ]
+# forecast.each do |h|
+
+
+puts forecast[0]["day"].capitalize
+
